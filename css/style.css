@@ -20,13 +20,13 @@ section{
     padding: 15px;
     width: 400px;
     margin: auto;
-    box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.363 );
+    box-shadow: 5px 5px 10px rgba(24, 23, 23, 0.363);
     background-image: url(/fundo.jpg);
 }
 select{
     box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.363 );
     border-radius: 3px;
-    
+ 
 }
 input{
     border-radius: 5px;
@@ -47,6 +47,7 @@ input{
     }
     section{
         width: 250px;
+        height: auto;
        
     }
     h1{
